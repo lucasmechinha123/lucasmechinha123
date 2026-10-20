@@ -1,49 +1,66 @@
-<h1 align="center">⚡ Olá, eu sou o Lucas ⚡</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=%3E+Desenvolvedor+Front-end;%3E+WordPress+%7C+React+%7C+JavaScript;%3E+Aprendendo+Python+%F0%9F%90%8D" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FFFF,100:FF00FF&height=220&section=header&text=LUCAS%20CAVALCANTE&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Front-end%20Developer&descSize=20&descAlignY=62" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:39FF14&height=120&section=header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=600&height=40&lines=%3E+initializing+portfolio...;%3E+WordPress+%7C+React+%7C+JavaScript;%3E+learning+Python+%F0%9F%90%8D;%3E+building+the+future+one+commit+at+a+time" alt="Typing SVG" />
 </p>
-
-## 🚀 Sobre mim
-
-- 🌐 Desenvolvedor front-end, criando sites e aplicações web modernas
-- ⚛️ Trabalho com React, JavaScript e WordPress
-- 🐍 Atualmente aprendendo **Python**
-- 🎯 Sempre evoluindo e construindo na prática
-
-## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-0a0a0a?style=for-the-badge&logo=wordpress&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=FF00FF" />
-  <img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Python-em_estudo-0a0a0a?style=for-the-badge&logo=python&logoColor=FF00FF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:00FFFF,100:39FF14&height=2" width="80%" />
 </p>
 
-## 📌 Projeto em destaque
+## 💻 whoami
 
-### 📈 Meus Investimentos
-Dashboard de investimentos para acompanhar o portfólio (PWA).
-🔗 [Ver projeto](https://dashboardinvest.vercel.app)
+```js
+const lucas = {
+  role: "Front-end Developer",
+  stack: ["WordPress", "HTML", "CSS", "JavaScript", "React"],
+  learning: "Python",
+  currentProject: "Meus Investimentos",
+  mission: "Construir interfaces rápidas, bonitas e funcionais",
+  status: "online 🟢"
+};
+```
 
-### Mecha Produções
-Site empresarial
-[Ver site](https://mechaproducoes.com.br/).
-
-## 📊 Estatísticas
+## ⚙️ Tech stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasmechinha123&show_icons=true&theme=synthwave&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmechinha123&layout=compact&theme=synthwave&hide_border=true" height="150" />
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,python,git,github,vscode,vercel,netlify&theme=dark" />
 </p>
 
-## 🐍 Minha cobrinha de contribuições
+<p align="center">
+  <img src="https://img.shields.io/badge/learning-Python-0a0a0a?style=for-the-badge&logo=python&logoColor=FF00FF&labelColor=0a0a0a&color=FF00FF" />
+</p>
+
+## 🚀 Projeto em destaque
+
+<table align="center">
+  <tr>
+    <td>
+      <h3>📈 Meus Investimentos</h3>
+      Dashboard de investimentos para acompanhar o portfólio, disponível como PWA.<br><br>
+      <a href="https://dashboardinvest.vercel.app"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FFFF&labelColor=0a0a0a&color=00FFFF" /></a>
+    </td>
+  </tr>
+</table>
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmechinha123&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmechinha123&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=c9d1d9" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lucasmechinha123&theme=dark&background=0D1117&ring=FF00FF&fire=39FF14&currStreakLabel=00FFFF&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmechinha123&bg_color=0d1117&color=00ffff&line=ff00ff&point=39ff14&area=true&area_color=00ffff&hide_border=true" width="95%" />
+</p>
+
+## 🐍 Snake.exe
 
 <p align="center">
   <picture>
@@ -52,12 +69,12 @@ Site empresarial
   </picture>
 </p>
 
-## 📫 Vamos conversar?
+## 📡 Conectar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-cavalcante-2652471b9/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
-  <a href="https://mechinha-dev.vercel.app/"><img src="https://img.shields.io/badge/Linktree-0a0a0a?style=for-the-badge&logo=vercel&logoColor=39FF14" /></a>
-
+  <a href="https://linktr.ee/devlucascavalcante"><img src="https://img.shields.io/badge/Linktree-0a0a0a?style=for-the-badge&logo=linktree&logoColor=39FF14" /></a>
+  <a href="https://devlucascavalcante.netlify.app/"><img src="https://img.shields.io/badge/Portfólio-0a0a0a?style=for-the-badge&logo=netlify&logoColor=FF00FF" /></a>
 </p>
 
 <p align="center">
