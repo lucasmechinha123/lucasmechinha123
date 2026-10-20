@@ -47,7 +47,7 @@ const lucas = {
   <tr>
     <td>
       <h3>📈 Mecha Produções</h3>
-     Site empresarial<br><br>
+    Site institucional desenvolvido para a Mecha Produções, com foco em apresentar os serviços e atrair novos clientes.<br><br>
       <a href="https://mechaproducoes.com.br/"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FFFF&labelColor=0a0a0a&color=00FFFF" /></a>
     </td>
   </tr>
