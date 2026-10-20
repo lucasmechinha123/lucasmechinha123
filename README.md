@@ -76,8 +76,7 @@ const lucas = {
 ## 📡 Conectar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-cavalcante-2652471b9/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
-  <a href="https://linktr.ee/devlucascavalcante"><img src="https://img.shields.io/badge/Linktree-0a0a0a?style=for-the-badge&logo=linktree&logoColor=39FF14" /></a>
+  <a href="https://www.linkedin.com/in/lucas-cavalcantedev/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
   <a href="https://mechinha-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
