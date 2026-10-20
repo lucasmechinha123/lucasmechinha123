@@ -18,7 +18,7 @@ const lucas = {
   stack: ["WordPress", "HTML", "CSS", "JavaScript", "React"],
   learning: "Python",
   currentProject: "Meus Investimentos",
-  mission: "Construir interfaces rápidas, bonitas e funcionais",
+  mission: "Transformar ideias em interfaces rápidas, bonitas e que funcionam de verdade",
   status: "online 🟢"
 };
 ```
@@ -42,6 +42,11 @@ const lucas = {
       Dashboard de investimentos para acompanhar o portfólio, disponível como PWA.<br><br>
       <a href="https://dashboardinvest.vercel.app"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FFFF&labelColor=0a0a0a&color=00FFFF" /></a>
     </td>
+    <td>
+      <h3>📈 Mecha Produções</h3>
+     Site empresarial<br><br>
+      <a href="https://mechaproducoes.com.br/"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FFFF&labelColor=0a0a0a&color=00FFFF" /></a>
+    </td>
   </tr>
 </table>
 
@@ -54,10 +59,6 @@ const lucas = {
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lucasmechinha123&theme=dark&background=0D1117&ring=FF00FF&fire=39FF14&currStreakLabel=00FFFF&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasmechinha123&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ## 🐍 Snake.exe
