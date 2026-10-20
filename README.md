@@ -57,7 +57,7 @@ const lucas = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmechinha123&bg_color=0d1117&color=00ffff&line=ff00ff&point=39ff14&area=true&area_color=00ffff&hide_border=true" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lucasmechinha123&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ## 🐍 Snake.exe
