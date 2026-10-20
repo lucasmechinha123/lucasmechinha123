@@ -43,6 +43,8 @@ const lucas = {
       <a href="https://dashboardinvest.vercel.app"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FFFF&labelColor=0a0a0a&color=00FFFF" /></a>
     </td>
     </br>
+</tr>
+  <tr>
     <td>
       <h3>📈 Mecha Produções</h3>
      Site empresarial<br><br>
