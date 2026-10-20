@@ -29,10 +29,6 @@ const lucas = {
   <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,python,aws,git,github,vscode,vercel,netlify&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/learning-Python,0a0a0a?style=for-the-badge&logo=python&logoColor=FF00FF&labelColor=0a0a0a&color=FF00FF" />
- 
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/learning-Python-0a0a0a?style=for-the-badge&logo=python&logoColor=FF00FF&labelColor=0a0a0a&color=FF00FF" />
   <img src="https://img.shields.io/badge/learning-AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=39FF14&labelColor=0a0a0a&color=39FF14" />
 </p>
