@@ -32,6 +32,9 @@
 Dashboard de investimentos para acompanhar o portfólio (PWA).
 🔗 [Ver projeto](https://dashboardinvest.vercel.app)
 
+Site empresarial
+[Ver site](https://mechaproducoes.com.br/).
+
 ## 📊 Estatísticas
 
 <p align="center">
