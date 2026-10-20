@@ -15,8 +15,8 @@
 ```js
 const lucas = {
   role: "Front-end Developer",
-  stack: ["WordPress", "HTML", "CSS", "JavaScript", "React"],
-  learning: "Python",
+  stack: ["WordPress", "HTML", "CSS", "JavaScript", "React","Aws"],
+  learning: "Python","Aws",
   currentProject: "Meus Investimentos",
   mission: "Transformar ideias em interfaces rápidas, bonitas e que funcionam de verdade",
   status: "online 🟢"
@@ -26,16 +26,15 @@ const lucas = {
 ## ⚙️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,python,git,github,vscode,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,python,aws,git,github,vscode,vercel,netlify&theme=dark" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/learning-Python,0a0a0a?style=for-the-badge&logo=python&logoColor=FF00FF&labelColor=0a0a0a&color=FF00FF" />
  
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/learning-aws,0a0a0a?style=for-the-badge&logo=aws&logoColor=FF00FF&labelColor=0a0a0a&color=FF00FF" />
- 
+  <img src="https://img.shields.io/badge/learning-Python-0a0a0a?style=for-the-badge&logo=python&logoColor=FF00FF&labelColor=0a0a0a&color=FF00FF" />
+  <img src="https://img.shields.io/badge/learning-AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=39FF14&labelColor=0a0a0a&color=39FF14" />
 </p>
 
 
