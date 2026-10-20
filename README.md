@@ -31,6 +31,7 @@ const lucas = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/learning-Python-aws,0a0a0a?style=for-the-badge&logo=python&logoColor=FF00FF&labelColor=0a0a0a&color=FF00FF" />
+   <img src="https://img.shields.io/badge/learning-aws,0a0a0a?style=for-the-badge&logo=aws&logoColor=FF00FF&labelColor=0a0a0a&color=FF00FF" />
 </p>
 
 ## 🚀 Projeto em destaque
