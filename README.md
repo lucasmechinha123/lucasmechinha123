@@ -42,6 +42,7 @@ const lucas = {
       Dashboard de investimentos para acompanhar o portfólio, disponível como PWA.<br><br>
       <a href="https://dashboardinvest.vercel.app"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FFFF&labelColor=0a0a0a&color=00FFFF" /></a>
     </td>
+    </br>
     <td>
       <h3>📈 Mecha Produções</h3>
      Site empresarial<br><br>
@@ -75,7 +76,7 @@ const lucas = {
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-cavalcante-2652471b9/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
   <a href="https://linktr.ee/devlucascavalcante"><img src="https://img.shields.io/badge/Linktree-0a0a0a?style=for-the-badge&logo=linktree&logoColor=39FF14" /></a>
-  <a href="https://devlucascavalcante.netlify.app/"><img src="https://img.shields.io/badge/Portfólio-0a0a0a?style=for-the-badge&logo=netlify&logoColor=FF00FF" /></a>
+  <a href="https://mechinha-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
